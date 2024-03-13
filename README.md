@@ -5,9 +5,7 @@
 
 ### 安装方式：
 
-方式一、replit平台fork： replit.com/@yonggekkk
-
-方式二、本地上传（强烈推荐）：
+本地上传（强烈推荐）：
 
 点击首页左上角+Create Repl或者右上角加号，搜索模版：Blank Repl，随意输入项目名称Title（不要出现代理协议的任何字眼），点击创建Create Repl，然后下载Github备份地址中的压缩文件（vmvltrssso.zip），并解压。再把解压后的4个文件全部拖到左侧文件栏内进行覆盖，等待几十秒后提示覆盖点确定，最后点击RUN。相关视频请看博客说明
 
