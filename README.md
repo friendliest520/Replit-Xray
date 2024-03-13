@@ -29,4 +29,6 @@
 
 ### 感谢：[甬哥](https://github.com/yonggekkk/Replit-Xray)
 ---------------------------------------
+### [视频教程说明](https://www.youtube.com/watch?v=p1G_yLCcIq0)
+----------------------------------
 #### 声明：网络收集，介意勿用
